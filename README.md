@@ -1,5 +1,5 @@
 <img src="assets/tasskBoard_app_light.png" alt="Alt text" width="720">
-===============================================================================================================================
+=====================================================================
 <img src="assets/tasskBoard_app_dark.png" alt="Alt text" width="720">
 
 # React Project 08 — Context API Task Board
